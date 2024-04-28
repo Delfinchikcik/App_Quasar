@@ -1,6 +1,6 @@
-# Quasar App (quasar)
+# DinoAI (quasar)
 
-A Quasar Project
+A Quasar Project DinoAI
 
 ## Install the dependencies
 ```bash
